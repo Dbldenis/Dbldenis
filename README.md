@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dbldenis
-- 👀 I’m interested in C++ 
-- 🌱 I’m currently learning C++
+
+I like to learn new things ! 
 
 <!---
 Dbldenis/Dbldenis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
